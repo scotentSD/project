@@ -4,7 +4,7 @@
 - Live:zzz
 
 ## Timelines
-- [Beta Tineline](webpages/timeline/)
+- [Beta Timeline](webpages/timeline/)
 
 
 ## Alpha Assesment Artefacts (Research)
@@ -24,7 +24,7 @@
 - Persona Spectrum
 - Service Blueprint
 - Storymap: Features  
-- [Timeline](webpages/timeline)
+
 
 
 ## Customer Research
