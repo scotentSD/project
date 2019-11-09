@@ -24,6 +24,7 @@
           {{ post.excerpt }}
         </div>
         <!-- <span class="initials">{{ post.initials }}</span> -->
+        
       </div>
   {% endfor %}
 </ul>
