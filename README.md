@@ -4,7 +4,7 @@
 - Live:zzz
 
 ## Timelines
-- [Beta Timeline](webpages/timeline/)
+- [Beta Timeline](timeline/)
 
 
 ## Alpha Assesment Artefacts (Research)
