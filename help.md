@@ -1,14 +1,18 @@
 
+
 ## Blog
 The Blog page has code to display any posts in the posts folder
+
 ```
- <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
+
+<ul>
+ {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+ {% endfor %}
 </ul>
+
 ```
 
 ## Posts
@@ -16,6 +20,7 @@ Put a markup file in the posts folder and name it in the format
 'yyyy-mm-dd-title.md`
 Add some code to the start and it will then be listed as a `POST` on the `BLOG` page
 Add this code to the header of the file to make it a POST
+
 ```
 ---
 layout: post
@@ -33,11 +38,3 @@ Add this line the `_config.yml` to enable the excerpt marker
 ```
 excerpt_separator: "<!--more-->"
 ```
-
-## Structure
-- Home
-- Blog
-- SEP
-- MAIDV (My Account)
-- FAS (Funding)
-- Techniques - User Research
